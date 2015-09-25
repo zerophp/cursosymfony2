@@ -1,0 +1,4 @@
+services:
+#    devel_devel.example:
+#        class: Devel\DevelBundle\Example
+#        arguments: [@service_id, "plain_value", %parameter%]

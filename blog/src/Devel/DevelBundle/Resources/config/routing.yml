@@ -1,0 +1,5 @@
+DevelDevelBundle_devel:
+    pattern:  /devel
+    defaults: { _controller: DevelDevelBundle:Default:index }
+    requirements:
+        _method:  GET
